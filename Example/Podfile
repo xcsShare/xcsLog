@@ -1,0 +1,14 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'xcsLog_Example' do
+  pod 'xcsLog', :path => '../'
+
+  target 'xcsLog_Tests' do
+    inherit! :search_paths
+
+    pod 'Specta'
+    pod 'Expecta'
+  end
+end
