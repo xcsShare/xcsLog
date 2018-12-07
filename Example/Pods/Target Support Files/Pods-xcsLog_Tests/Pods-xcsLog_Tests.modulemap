@@ -1,0 +1,6 @@
+framework module Pods_xcsLog_Tests {
+  umbrella header "Pods-xcsLog_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
