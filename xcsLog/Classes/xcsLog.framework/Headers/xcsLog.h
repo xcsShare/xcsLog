@@ -2,8 +2,8 @@
 //  xcsLog.h
 //  xcsLog
 //
-//  Created by Cypress on 2018/12/7.
-//  Copyright © 2018年 xcs. All rights reserved.
+//  Created by Cypress on 2018/12/9.
+//  Copyright © 2018 xcs. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
