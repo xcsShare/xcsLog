@@ -1,6 +1,0 @@
-framework module xcsLog {
-  umbrella header "xcsLog.h"
-
-  export *
-  module * { export * }
-}
